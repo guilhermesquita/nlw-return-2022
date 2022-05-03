@@ -3,6 +3,8 @@ F - foco
 P - prática
 G - grupo (comunidade)
 
+- REACT / REACTNATIVE / TYPESCRIPT / CSS /  TAILWIND CSS/ 
+
 SSR - Wordpress, ruby on rails (github), Magento...
 - Back-End + Front-End = aplicação EM HTML/CSS/JS
 
@@ -12,3 +14,11 @@ SPA - Angula, Js, Vue, Svelte, Aurelia
 
 CRIAÇÃO DE PROJETO
 npm create vite@latest
+
+REDENRIZAR PROJETO
+npm run dev
+
+
+
+COMPONENTES
+- Funções que retornam HTML
